@@ -1,2 +1,4 @@
 title: Justin Chen
 theme: jekyll-theme-minimal
+baseurl: "/portfolio" # The name of your repository
+url: "https://jusydun.github.io" # Your GitHub Pages URL
