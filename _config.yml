@@ -1,4 +1,5 @@
-title: Justin Chen
-theme: jekyll-theme-minimal
-baseurl: "/portfolio" # The name of your repository
+title: "My Portfolio"
+description: "Welcome to my portfolio website."
+baseurl: "/portfolio" # This should be the name of your repository
 url: "https://jusydun.github.io" # Your GitHub Pages URL
+theme: minima # Use the Minima theme
